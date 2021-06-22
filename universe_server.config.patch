@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/alpaca69",
+		"value" : [
+		    "/ships/alpaca69/alpaca69t0.structure",
+			"/ships/alpaca69/alpaca69t1.structure",
+			"/ships/alpaca69/alpaca69t2.structure",
+			"/ships/alpaca69/alpaca69t3.structure",
+			"/ships/alpaca69/alpaca69t4.structure",
+			"/ships/alpaca69/alpaca69t5.structure",
+			"/ships/alpaca69/alpaca69t6.structure",
+			"/ships/alpaca69/alpaca69t7.structure",
+			"/ships/alpaca69/alpaca69t8.structure"
+		]
+	}
+]

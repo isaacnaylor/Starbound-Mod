@@ -1,0 +1,29 @@
+{
+  "objectName" : "alpaca69bannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+  "description" : "A small alpaca69 wallbanner from a alpaca69 academy.",
+  "shortdescription" : "Small alpaca69 Wall Banner",
+  "race" : "alpaca69",
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A small alpaca69 banner...",
+  "humanDescription" : "The alpaca69 banner quite lovely.",
+  "hylotlDescription" : "The banner is just lovely.",
+  "novakidDescription" : "This would look great in my house.",
+  "alpaca69Description" : "I am so happy to see the alpaca69 culture thrive",  
+  "inventoryIcon" : "alpaca69bannersmallicon.png",
+  "orientations" : [
+    {
+      "image" : "alpaca69bannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : []
+    }
+  ]
+}

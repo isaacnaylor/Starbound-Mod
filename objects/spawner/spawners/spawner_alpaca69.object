@@ -1,0 +1,48 @@
+{
+  "objectName" : "spawneralpaca69",
+  "colonyTags" : ["misc"],
+  "rarity" : "Common",
+  "description" : "Spawn your very own alpaca69 villager Simply place and then leave the planet or ship. Once you return there will be an NPC.",
+  "shortdescription" : "alpaca69 Spawner",
+  "race" : "alpaca69",
+  "printable" : false,
+  "category" : "spawner",
+  "price" : 100,
+  "apexDescription" : "Maybe I can reverse engineer this.",
+  "avianDescription" : "What could I possibly want with alpaca69s?",
+  "floranDescription" : "Floran not sssure if want to sssummon alpaca69s.",
+  "glitchDescription" : "Concern. These were all meant to be destroyed.",
+  "humanDescription" : "What could I possibly want with alpaca69s?",
+  "hylotlDescription" : "A alpaca69 spawner. These shouldn't exist.",
+  "alpaca69Description" : "Woo.",
+  "inventoryIcon" : "defaulticon.png",
+  "orientations" : [
+    {
+      "image" : "spawner_alpaca69.png",
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "background" ]
+    }
+  ],
+  "scripts" : [ "/objects/spawner/spawners/spawner.lua" ],
+  "scriptDelta" : 1,
+  //6000,
+  "animation" : "/objects/spawner/spawners/alpaca69.animation",
+  "animationParts" : {
+    "switch" : "spawner_alpaca69.png"
+  },
+  "animationPosition" : [-8, 0],
+  "inputNodes" : [ ],
+  "outputNodes" : [ ],
+  "spawner" : {
+    "searchRadius" : 32.0,
+    "npcSpeciesOptions" : [ "alpaca69" ],
+    "npcTypeOptions" : [ "villager" ],
+    "npcParameterOptions" : [
+      {
+        "dropPools" : [ ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/alpaca69",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/alpaca69",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

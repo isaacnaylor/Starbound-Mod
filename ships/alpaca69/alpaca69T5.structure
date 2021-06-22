@@ -1,0 +1,21 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 6
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "alpaca69T5.png",
+      "position" : [-1, 3],
+      "fullbright" : true
+    },
+    {
+      "image" : "alpaca69T5lit.png",
+      "position" : [-1, 3]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "alpaca69T5blocks.png"
+}

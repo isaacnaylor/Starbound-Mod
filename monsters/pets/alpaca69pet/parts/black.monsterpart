@@ -1,0 +1,8 @@
+{
+  "name" : "black",
+  "category" : "alpaca69pet",
+  "type" : "body",
+  "frames" : {
+    "body" : "black.png"
+  }
+}

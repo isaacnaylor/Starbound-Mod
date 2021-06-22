@@ -1,0 +1,11 @@
+{
+  "tags" : "Species",
+  "author" : "Isaac Naylor",
+  "description" : "Adds Alpaca Race.",
+  "friendlyName" : "Alpaca Mod",
+  "link" : "",
+  "name" : "Alpaca Mod",
+  "path" : ".",
+  "steamContentId" : "",
+  "version" : "1"
+}

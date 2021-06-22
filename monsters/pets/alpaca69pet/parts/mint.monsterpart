@@ -1,0 +1,8 @@
+{
+  "name" : "mint",
+  "category" : "alpaca69pet",
+  "type" : "body",
+  "frames" : {
+    "body" : "mint.png"
+  }
+}

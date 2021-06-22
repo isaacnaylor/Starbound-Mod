@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/alpaca69",
+		"value" : {
+			"aiFrames" : "alpaca69AI.png",
+			"portraitFrames" : "portraits/alpaca69portrait.png",
+			"staticFrames" : "staticalpaca69.png"	
+		}
+	}
+]
